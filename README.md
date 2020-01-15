@@ -1,2 +1,2 @@
-cs480x-20c.github.io
+cs573-20s.github.io
 
