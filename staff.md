@@ -15,8 +15,8 @@ Instructor
 Office Hours -> TBA @ FL136
 
 TAs   
-Office Hours -> TBA     
-Noelle Rakotondravony   
+Office Hours -> Tuesdays and Thursdays from 10am - 12p (FL-A22)     
+Noëlle Rakotondravony   
 
 SAs  
 Office Hours -> TBA     
