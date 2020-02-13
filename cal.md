@@ -82,6 +82,7 @@ VAD Chapters 7, 8
 
 ### 10-Feb Mon   
 Topic: Visualizing Tabular Data, 2    
+Slides can be found [here](https://drive.google.com/drive/folders/1JWm8XpEAn6dqB7n1TjP63Jyz_vBSj6nD?usp=sharing)
 
 ### 12-Feb Wed   
 Topic: A2 work day  
